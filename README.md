@@ -1,2 +1,2 @@
-# npcmaara
-voit säädellä npcmäärää npcmaara.luasta
+# Npcmaara
+Voit vaihtaa npcmäärää npcmaara.lua tiedostosta
